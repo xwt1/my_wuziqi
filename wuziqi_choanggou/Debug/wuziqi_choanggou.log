@@ -1,0 +1,5 @@
+﻿  Main.cpp
+D:\wuziqi_chonggou\wuziqi_choanggou\wuziqi_choanggou\score_count.h(123,18): warning C4806: “==”: 不安全操作: 从类型“bool”提升到类型“int”的值不能等于给定的常量
+D:\wuziqi_chonggou\wuziqi_choanggou\wuziqi_choanggou\min_max.h(102,26): warning C4305: “参数”: 从“int”到“bool”截断
+D:\wuziqi_chonggou\wuziqi_choanggou\wuziqi_choanggou\min_max.h(123,26): warning C4305: “参数”: 从“int”到“bool”截断
+  wuziqi_choanggou.vcxproj -> D:\wuziqi_chonggou\wuziqi_choanggou\Debug\wuziqi_choanggou.exe
